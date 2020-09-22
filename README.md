@@ -1,17 +1,11 @@
-### Hi there 👋
+<h2 align="center">Graphic Designer & FullStack Developer</h2>
 
-<!--
-**sterzidev/sterzidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'am a FullStack Developer 🚀 <br>
+I have 3 projects: <br>
+* [Xylos](https://discord.com/oauth2/authorize?client_id=731086931559186473&permissions=8&scope=bot) - Polish Discord BOT
+* [sterzi.dev](https://sterzidev.github.io) - My official site :D ( There you can buy some cool stuff [ Discord Bots / Websites and more ] )
+* [Devyar](https://website.coming.soon/) - ???
 
-Here are some ideas to get you started:
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sterzidev&show_icons=true&title_color=19f&icon_color=19f&bg_color=09f2)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 My projects:
-* Xylos
-* xxx.xxx.xxx
-* Averia APP
-*
-
-- 💬 Discord Server: [SOON]
-- 📫 Contact: sterZi#0007 | Issues menu
-- ⚡ Current project: xxx.xxx.xxx
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sterzidev&layout=compact&title_color=19f&bg_color=09f2)](https://github.com/anuraghazra/github-readme-stats)
