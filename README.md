@@ -6,6 +6,6 @@ My projects: <br>
 * [sterzi.dev](https://sterzidev.github.io) - My official site :D ( There you can buy some cool stuff [ Discord Bots / Websites and more ] )
 * [Devyar](https://website.coming.soon/) - ???
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sterzidev&show_icons=true&title_color=19f&icon_color=19f&bg_color=09f2)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=sterzidev&show_icons=true&theme=tokyonight&hide_border=true">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sterzidev&layout=compact&title_color=19f&bg_color=09f2)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sterzidev&theme=tokyonight">
