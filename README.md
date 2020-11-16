@@ -1,1 +1,4 @@
-![sterzidev](https://cdn.discordapp.com/attachments/760483372862275635/760484619098783744/aletoty.jpg?1 "sterzidev")
+## Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Nice to meet you :) I am a fullstack developer and graphics designer. Now i know: html, css, javascript, python, vuejs and some databases. I'm looking forward in future to learn more languages and graphics techniques soon.
+
+![sterzidev-github stats](https://github-readme-stats.vercel.app/api?username=sterzidev&show_icons=true&theme=tokyonight)
